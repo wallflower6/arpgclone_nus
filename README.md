@@ -1,7 +1,8 @@
 <h1>Clone and Run</h1>
 <ol>
   <li>Clone this repo with <code>git clone https://github.com/wallflower6/arpgclone_nus.git</code></li>
-  <li>Running the executable: Navigate to <code>Builds</code> folder, and double click the <code>ARPGClone_NUS.exe</code> application.</li>
+  <li>Running the PC build / executable: Navigate to <code>Builds</code> folder, and double click the <code>ARPGClone_NUS.exe</code> application.</li>
+  <li>Alternatively, the project can be played at <code>https://wallflower6.github.io/arpgclone_nus/</code> or <code>https://wallflower6.itch.io/arpg-movement-clone</code>. Please note that in this case, the "Exit Game" button does not need to be used. The button is for an easy exit for the PC build.</li>
 </ol>
 
 <h1>Setting up project in Unity</h1>
