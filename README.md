@@ -18,5 +18,6 @@
   <li>Idle and fast-run animation: Mixamo</li>
 </ol>
 
-<h1>Version Used</h1>
+<h1>Misc</h1>
 <code>Unity 2021.3.27f1</code>
+<p>Repo by: Lindy Lim Li Wen</p>
